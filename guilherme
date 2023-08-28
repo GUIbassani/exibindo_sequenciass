@@ -1,0 +1,9 @@
+n=0 
+while n<200:
+    n=n+25
+    print(n)
+x=200
+while x>24:
+    x=x/2
+    print(x)
+    
